@@ -6,6 +6,9 @@ public class linerTimeBigO {
 		//linear time
 		 //* Looping through element in a array
 		 //* searching through linked List
+		
+		
+		
 		int[] arr = {9,2,6,7,5,3,2,8};
 		int index = linearSearch(arr, 8);
 		
